@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
+## [1.7.0](https://www.github.com/googleapis/python-pubsub/compare/v1.6.1...v1.7.0) (2020-07-07)
+
+
+### Features
+
+* Add support for server-side flow control ([#143](https://www.github.com/googleapis/python-pubsub/issues/143)) ([04e261c](https://www.github.com/googleapis/python-pubsub/commit/04e261c602a2919cc75b3efa3dab099fb2cf704c))
+
+
+### Documentation
+
+* Add a link to Pub/Sub filtering language public documentation to pubsub.proto ([#121](https://www.github.com/googleapis/python-pubsub/issues/121)) ([8802d81](https://www.github.com/googleapis/python-pubsub/commit/8802d8126247f22e26057e68a42f5b5a82dcbf0d))
+
 ### [1.6.1](https://www.github.com/googleapis/python-pubsub/compare/v1.6.0...v1.6.1) (2020-06-30)
 
 
